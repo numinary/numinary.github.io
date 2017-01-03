@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Welcome to 2017 — Year forty of the business analytics winter!"
+subtitle: xxx
+date:   2017-01-03 7:30:00 -0500
+categories: update
+comments: true
+---
+{% if jekyll.envirionment=="production" %}
+<div>xxx</div>
+{% endif %}
+The end of 2016 marked the end of my fortieth year in the computing industry. During the holiday hiatus I started thinking about all that has changed in forty years, but ended up thinking about that which has not, in particular relative to the analysis of business data.
+
+I recall the early eighties, writing SAS proc tabulate routines for The Hay Group's survey shop. Compared to to modern analytics pipelines with huge data feeds, processed by massively parallel reducers, fed into columnar databases, and rendered with Tableau, the difference is ... almost nothing.
+
+Of course, all the plumbing and the languages and tools are different. And we don't need a CalComp plotter to to do graphics. But fundamentally, most business data analysis is still spreadsheets and pivot tables. Note I'm not saying there <em>is</em> nothing new, just that most business data analysis is the same old same-old.
+
+We can offer several reasons why the advances weren't more prominent:
+
+1. Endless new ways to <b>make the same old stuff make the old stuff look new and shiny</b>. Tree-maps, bubble-charts, and word-clouds are all just alternative renditions of cross-tabs.
+
+2. As a group, <b>businesspeople didn't advance much in their understanding and using data</b>. We know a lot more today about how uncertainty plays out, how to analyze it, and how to draw inferences. And we also know a lot more about cognitive biases and how they affect our perceptions. Yet overall progress toward evidence and data driven business decision making has been measly.
+
+3. <b>The twenty-five years wasted on database technology!</b> What? I didn't say that, did I? Well ... yes! Hey, databases are great, and they have innumerable benefits for record-keeping and transactional applications. But database vendors sold the idea that once everything was captured in the database (or data warehouse, or data marts, or data lake), all of the insight inherent in the data would leap out in a form easily consumed and exploited by business professionals. Except that the SQL queries we've been writing to get the data for analysis just as complex than reading the sequential files we started out with twenty years ago.
+
+4. <b>Dashboard obsession.</b> Now and then a metaphor becomes malignant. The domino theory of the spread of communism comes to mind. And dashboards. No, dashboards probably haven't killed people, but if we think about what might have been done with the effort that has gone into making useless dashboards, lives and livelihoods could certainly have been saved. Automobile dashboards provide a realtime view of dynamic information that helps drivers make decisions. Most business dashboards provide out-of-date snapshots of information, the majority of which informs no decision-making. In other words, they are distractions, and the more effort that goes into their visual design, the more distracting they are.
+
+<img src="/img/baddash.jpg" style="display:block; margin-right: auto; margin-left: auto; width: 70%"/>
+
+
+
+
+[Numinary.com][numinary-home]
+
+[numinary-home]: http://www.numinary.com
