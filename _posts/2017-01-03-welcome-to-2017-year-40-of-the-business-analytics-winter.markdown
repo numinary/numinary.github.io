@@ -15,7 +15,7 @@ I recall the early eighties, writing SAS proc tabulate routines for The Hay Grou
 
 Of course, all the plumbing and the languages and tools are different. And we don't need a CalComp plotter to to do graphics. But fundamentally, most business data analysis is still spreadsheets and pivot tables. Note I'm not saying there <em>is</em> nothing new, just that most business data analysis is the same old same-old.
 
-We can offer several reasons why the advances weren't more prominent:
+We can imagine several reasons why the advances weren't more prominent:
 
 1. Endless new ways to <b>make the same old stuff make the old stuff look new and shiny</b>. Tree-maps, bubble-charts, and word-clouds are all just alternative renditions of cross-tabs.
 
@@ -27,9 +27,12 @@ We can offer several reasons why the advances weren't more prominent:
 
 <img src="/img/baddash.jpg" style="display:block; margin-right: auto; margin-left: auto; width: 70%"/>
 
+## But what about predictive analytics, machine learning, artificial intelligence, big data, Watson, TensorFlow, recommenders ... ?
 
+If you follow Andrew Ng and Hillary Mason on twitter, you might be led to believe that the world of business analytics is advancing nicely. But their job descriptions include promoting advanced analytics by describing successes and breakthroughs, of which there are many. I'm not suggesting there haven't been advances. Quite the contrary, technology has advanced impressively, especially in the past couple of decades as the web scale giants have grown to corporate adulthood. My point is that there is wonderful technology at hand. Contrary to what the curmudgeon class of disaffected statisticians would like you to believe, it's not hard to use. The benefits depend on the problem to which it is applied, the availability of data, and a certain amount of luck. But for businesses, the upside is limitless, and the downside is extinction. You would think they would be clamoring to start projects. But they aren't.
 
+My theory is that the profound analytical fatigue (the result of forty years of gratuitous database and BI vaporware and hype) will soon begin to lift. For a good many years, companies that have used analytics to their best advantage have shown demonstrable returns, But recently, the differential advantage has grown to the point where it can't be ignored. Competitive advantages that move the needle a fraction of a percentage point benefit the largest players the most. Without scale, the cost can't be justified. But when the market share lift jumps from a quarter of a percent to five percent, the disadvantage for the non-adopter is suddenly existential.
 
-[Numinary.com][numinary-home]
+More on this and related topics as the year (and the spring thaw) progresses. Stay tuned!
 
-[numinary-home]: http://www.numinary.com
+\|N\|
