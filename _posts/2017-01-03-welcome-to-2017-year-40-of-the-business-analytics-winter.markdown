@@ -6,14 +6,16 @@ date:   2017-01-03 7:30:00 -0500
 categories: update
 comments: true
 ---
-{% if jekyll.envirionment=="production" %}
-<div>xxx</div>
-{% endif %}
+
 The end of 2016 marked the end of my fortieth year in the computing industry. During the holiday hiatus I started thinking about all that has changed in forty years, but ended up thinking about that which has not, in particular relative to the analysis of business data.
 
-I recall the early eighties, writing SAS proc tabulate routines for The Hay Group's survey shop. Compared to to modern analytics pipelines with huge data feeds, processed by massively parallel reducers, fed into columnar databases, and rendered with Tableau, the difference is ... almost nothing.
+I recall the early eighties, writing SAS proc tabulate routines for The Hay Group's survey shop. Compared to to modern big data pipelines, massive parallel summarizers, fed into columnar databases, and rendered with Tableau, the difference is ... almost nothing.
 
-Of course, all the plumbing and the languages and tools are different. And we don't need a CalComp plotter to to do graphics. But fundamentally, most business data analysis is still spreadsheets and pivot tables. Note I'm not saying there <em>is</em> nothing new, just that most business data analysis is the same old same-old.
+<img src="/img/haychart.jpg" style="display:block; margin-right: auto; margin-left: auto; width: 70%"/>
+
+In fact, I would argue that the analyses we produced in the early eighties was more informative than most of what passes for business data analysis today. [I don't have the CalComp plotter version and yes, the curve is a straight line].
+
+Of course, all the plumbing and the languages and tools are different. And we don't need a CalComp plotter to to do graphics. But fundamentally, most business data analysis is still tables, cross-tabs, and various graphical renditions thereof (or spreadsheets, pivot tables, and charts if you're quite as old as me).  Note I'm not saying there <em>is</em> nothing new, just that most business data analysis is the same old same-old.
 
 We can imagine several reasons why the advances weren't more prominent:
 
@@ -23,13 +25,16 @@ We can imagine several reasons why the advances weren't more prominent:
 
 3. <b>The twenty-five years wasted on database technology!</b> What? I didn't say that, did I? Well ... yes! Hey, databases are great, and they have innumerable benefits for record-keeping and transactional applications. But database vendors sold the idea that once everything was captured in the database (or data warehouse, or data marts, or data lake), all of the insight inherent in the data would leap out in a form easily consumed and exploited by business professionals. Except that the SQL queries we've been writing to get the data for analysis just as complex than reading the sequential files we started out with twenty years ago.
 
-4. <b>Dashboard obsession.</b> Now and then a metaphor becomes malignant. The domino theory of the spread of communism comes to mind. And dashboards. No, dashboards probably haven't killed people, but if we think about what might have been done with the effort that has gone into making useless dashboards, lives and livelihoods could certainly have been saved. Automobile dashboards provide a realtime view of dynamic information that helps drivers make decisions. Most business dashboards provide out-of-date snapshots of information, the majority of which informs no decision-making. In other words, they are distractions, and the more effort that goes into their visual design, the more distracting they are.
+4. <b>Dashboard obsession.</b> Now and then a metaphor becomes malignant. The domino theory of the spread of communism comes to mind. And dashboards. No, dashboards probably haven't killed people, but if we think about what might have been done with the effort that has gone into making useless dashboards, lives and livelihoods could certainly have been saved.  
+
+
+   Automobile dashboards provide a realtime view of dynamic information that helps drivers make decisions. Most business dashboards provide out-of-date snapshots of information, the majority of which informs no decision-making. In other words, they are distractions, and the more effort that goes into their visual design, the more distracting they are.  
 
 <img src="/img/baddash.jpg" style="display:block; margin-right: auto; margin-left: auto; width: 70%"/>
 
 ## But what about predictive analytics, machine learning, artificial intelligence, big data, Watson, TensorFlow, recommenders ... ?
 
-If you follow Andrew Ng and Hillary Mason on twitter, you might be led to believe that the world of business analytics is advancing nicely. But their job descriptions include promoting advanced analytics by describing successes and breakthroughs, of which there are many. I'm not suggesting there haven't been advances. Quite the contrary, technology has advanced impressively, especially in the past couple of decades as the web scale giants have grown to corporate adulthood. My point is that there is wonderful technology at hand. Contrary to what the curmudgeon class of disaffected statisticians would like you to believe, it's not hard to use. The benefits depend on the problem to which it is applied, the availability of data, and a certain amount of luck. But for businesses, the upside is limitless, and the downside is extinction. You would think they would be clamoring to start projects. But they aren't.
+If you follow Andrew Ng and Hillary Mason on twitter, you might be led to believe that the world of business analytics is advancing nicely. But their job descriptions include promoting advanced analytics by describing successes and breakthroughs, of which there are many. I'm not suggesting there haven't been advances. Quite the contrary, technology has advanced impressively, especially in the past couple of decades as the web giants have grown to corporate adulthood. My point is that there is wonderful technology at hand. Contrary to what the curmudgeon class of disaffected statisticians would like you to believe, it's not hard to use. The benefits depend on the problem to which it is applied, the availability of data, and a certain amount of luck. But for businesses, the upside is limitless, and the downside is extinction. You would think they would be clamoring to start projects. But they aren't.
 
 My theory is that the profound analytical fatigue (the result of forty years of gratuitous database and BI vaporware and hype) will soon begin to lift. For a good many years, companies that have used analytics to their best advantage have shown demonstrable returns, But recently, the differential advantage has grown to the point where it can't be ignored. Competitive advantages that move the needle a fraction of a percentage point benefit the largest players the most. Without scale, the cost can't be justified. But when the market share lift jumps from a quarter of a percent to five percent, the disadvantage for the non-adopter is suddenly existential.
 
