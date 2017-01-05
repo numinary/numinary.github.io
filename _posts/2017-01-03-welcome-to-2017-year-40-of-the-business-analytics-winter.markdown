@@ -22,7 +22,7 @@ Of course, all the plumbing and the languages and tools are different. And we do
 
 We can imagine several reasons why the advances weren't more prominent:
 
-<b>Endless new ways to make the old stuff look new and shiny</b>. Tree-maps, bubble-charts, and word-clouds are all just alternative renditions of cross-tabs and pie charts. So then what would qualify as advancement? How about presentations that incorporate distributions and uncertainty. The absence of these elements reflects unforgivable intellectual laziness on the part of both the producers and consumers of business data.  
+<b>Endlessly making the old stuff look new and shiny</b>. Tree-maps, bubble-charts, and word-clouds are all just alternative renditions of cross-tabs and pie charts. So then what would qualify as advancement? How about presentations that incorporate distributions and uncertainty. The absence of these elements reflects unforgivable intellectual laziness on the part of both the producers and consumers of business data.  
 
    <em>By the way, finance quants and digital advertisers do understand distributions and uncertainty (and machine learning and predictive analytics). That's why digital ad revenue has grown at 17% CAGR since 2005 and the financial sector has been eating the rest of the economy since 1960.</em>
 
