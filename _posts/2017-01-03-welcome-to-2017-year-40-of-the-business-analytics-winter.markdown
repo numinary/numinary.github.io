@@ -22,20 +22,19 @@ Of course, all the plumbing and the languages and tools are different. And we do
 
 We can imagine several reasons why the advances weren't more prominent:
 
-1. Endless new ways to <b>make the old stuff look new and shiny</b>. Tree-maps, bubble-charts, and word-clouds are all just alternative renditions of cross-tabs and pie charts. So then what would qualify as advancement? How about presentations that incorporate distributions and uncertainty. The absence of these elements reflects unforgivable intellectual laziness on the part of both the producers and consumers of business data.  
+<b>Endless new ways to make the old stuff look new and shiny</b>. Tree-maps, bubble-charts, and word-clouds are all just alternative renditions of cross-tabs and pie charts. So then what would qualify as advancement? How about presentations that incorporate distributions and uncertainty. The absence of these elements reflects unforgivable intellectual laziness on the part of both the producers and consumers of business data.  
 
-   <em>By the way, finance quants and digital advertisers do understand distributions and uncertainty. That's why digital ad revenue has grown at 17% CAGR since 2005 and the financial sector has increased its share of GDP by over 3% annually since 1960.</em>
+   <em>By the way, finance quants and digital advertisers do understand distributions and uncertainty (and machine learning and predictive analytics). That's why digital ad revenue has grown at 17% CAGR since 2005 and the financial sector has been eating the rest of the economy since 1960.</em>
 
-2. As a group, <b>businesspeople didn't advance much in their understanding and use of data</b>. We know a lot more today about how uncertainty plays out, how to analyze it, how to characterize distributions, and how to draw significant inferences. And we also know a lot more about cognitive biases and how they affect our perceptions. Yet overall progress toward evidence and data driven business decision making has been measly.
+<b>Businesspeople didn't advance much in their understanding and use of data</b>. We know a lot more today about how uncertainty plays out, how to analyze it, how to characterize distributions, and how to draw significant inferences. And we also know a lot more about cognitive biases and how they affect our perceptions. Yet overall progress toward evidence and data driven business decision making has been measly.
 
-3. <b>The twenty-five years wasted on database technology!</b> What? I didn't say that, did I? Well ... yes! Hey, databases are great, and they have innumerable benefits for record-keeping and transactional applications. But database vendors sold the idea that once everything was captured in the database (or data warehouse, or data marts, or data lake), all of the insight inherent in the data would leap out in a form easily consumed and exploited by business professionals.
+<b>The twenty-five years wasted on database technology!</b> What? I didn't say that, did I? Well ... yes! Hey, databases are great, and they have innumerable benefits for record-keeping and transactional applications. But database vendors sold the idea that once everything was captured in the database (or data warehouse, or data marts, or data lake), all of the insight inherent in the data would leap out in a form easily consumed and exploited by business professionals.
 
 ```
 select probability(next qtr sales is > 5% under forecast)
 from ...
 ```
-
-4. <b>Dashboard obsession.</b> Now and then a metaphor becomes malignant. The domino theory of the spread of communism comes to mind. And dashboards. No, dashboards probably haven't killed people, but if we think about what might have been done with the effort that has gone into making useless dashboards, lives and livelihoods could certainly have been saved.  
+<b>Dashboard obsession.</b> Now and then a metaphor becomes malignant. The domino theory of the spread of communism comes to mind. And dashboards. No, dashboards probably haven't killed people, but if we think about what might have been done with the effort that has gone into making useless dashboards, lives and livelihoods could certainly have been saved.  
 
 <img src="/img/baddash.jpg" style="display:block; margin-right: auto; margin-left: auto; width: 70%"/>
 
