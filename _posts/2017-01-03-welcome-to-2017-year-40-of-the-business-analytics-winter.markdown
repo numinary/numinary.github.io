@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Welcome to 2017 — Year forty of the business analytics winter!"
+title:  "Forty years of business analytics winter!"
 subtitle: xxx
 date:   2017-01-03 7:30:00 -0500
 categories: update
 comments: true
 ---
+<p style="display:block; margin-right: auto; margin-left: auto; width: 100%; font-size:80%">
+<img src="/img/winter.jpg" />
+
+</p>
 
 The end of 2016 marked the end of my fortieth year in the computing industry. During the holiday hiatus I started thinking about all that has changed in forty years, but ended up thinking about that which has not.
 
