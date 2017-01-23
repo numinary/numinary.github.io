@@ -3,7 +3,7 @@ layout: post
 title: "Measurement and Evidence versus Sales and Marketing"
 date: "2017-01-23 09:21:58 -0500"
 ---
-In The Guardian's <a href="https://goo.gl/hT8PAi">How statistics lost their power – and why we should fear what comes next</a>, sociologist <a href="https://www.theguardian.com/profile/william-davies-author">William Davies</a> asserts:
+<img src="/img/snakeoil.jpeg" align="left" style="padding-right:10px"> PIn The Guardian's <a href="https://goo.gl/hT8PAi">How statistics lost their power – and why we should fear what comes next</a>, sociologist <a href="https://www.theguardian.com/profile/william-davies-author">William Davies</a> asserts:
 
 > "The ability of statistics to accurately represent the world is declining. In its wake, a new age of big data controlled by private companies is taking over – and putting democracy in peril"
 
