@@ -3,7 +3,7 @@ layout: post
 title: "It's Not Unstructured, It's Human"
 date: "2017-02-01 07:53:41 -0600"
 ---
-<img src="../img/human.jpg">
+<img src="/img/human.jpg">
 
 I've always been mildly bothered by the term unstructured data. I finally realized why.
 
