@@ -3,6 +3,9 @@ layout: post
 title: "Business Analytics 5.0"
 date: "2017-02-07 18:37:35 -0500"
 ---
+<img src="../img/bluechart.jpg">
+
+
 Like most techies, I am attracted to shiny objects. When coding gets dull, get a new editor makes it fun again. Twitter seemed new and exciting when I got my iPhone 7.
 
 And like most entrepreneurs, I imagine inventing something so completely new, awesome, and unforeseen by everyone (but me) that it totally rocks the world (at least for its its customers).
@@ -19,7 +22,9 @@ The question therefore is, what makes a new product appealing when it doesn't re
 
 I don't think it's just the novelty. If novelty were enough, there would be hundreds of spreadsheet programs and thousands of word processors (that you'd actually heard of).
 
-### <i>Premise: The cost function for software products maps the value and complexity of user tasks to the cognitive friction associated with their completion.</i>
+#### <i>Premise: The cost function for software products maps the value and complexity of user tasks to the cognitive friction associated with their completion.</i>
+
+I know that sounds pretty awful but stay with me.
 
 Cognitive Friction (CF) is a phrase coined by Alan Cooper in his 1999 book “The Inmates are Running the Asylum”. Cooper defines it as
 
@@ -31,19 +36,17 @@ Of course, you expect more complex tasks to require more effort. But sometimes, 
 
 When there is a problem for which there is no solution, and one is created, users will tolerate high CF. Alan Cooper cites the analogy between early cell phones and wet dogs — you have to really love a wet dog to carry it around.
 
-But when a new product accomplishes the same things as on old one but with far lower CF it can be incredibly attractive.
+But when a new product accomplishes the same things as on old one but with far lower CF it can be incredibly attractive (dry dogs are better).
 
 ## Business Analytics and UX
 
-The term Business Analytics is used here instead of Business Intelligence because BI is meaningless, apart from being a category for one of Gartner's least comprehensible magic quadrants. By Business Analytics (BA), I mean the use of analyses to solve business problems, not by analytics practitioners or producers, but by consumers — businesspeople.
+I use the term Business Analytics here instead of Business Intelligence because BI is meaningless (apart from being a category for one of Gartner's least comprehensible magic quadrants). By Business Analytics (BA), I mean the use of analyses to solve business problems, not by analytics practitioners or producers, but by consumers — businesspeople.
 
 The user experience of these consumers is distinct from that of the technicians who oversee the acquisition, transformation, and organization of data. And it is also separate from that of the users of analysis, presentation, and dashboarding tools. Business users consume the work products of these specialists in the form of static reports, interactive portals, dashboards, and spreadsheets.
 
-The problem is that the software vendors who build tools for these intermediaries are focused on the UX of their users, not the end users for whom analyses are prepared. So what happens a lot is trickle-down BA. IT people support core business systems. The data warehouse team slurps up data from various business systems. Data analysts use Tableau, and business users get dashboards built by amateurs. No wonder there's aren't a lot of breakthroughs.
+The problem is that the software vendors who build tools for these intermediaries are focused on the UX of their users, not the end users for whom analyses are prepared. So what happens a lot is trickle-down BA. IT people support core business systems. Data warehouse team slurps up data from various business systems. Data analysts use Tableau, and business users get dashboards built by amateurs. No wonder there's aren't a lot of breakthroughs.
 
-Of course some business systems have analytics built in. So if a user only needs data from a single business system, and the built-in features meet their needs, life is good. But more often than not data from disparate sources needs to get consolidated.
-
-
+Of course some business systems have analytics built in. So if a user only needs data from a single business system, and the built-in features meet their needs, life is good. But more often than not data from disparate sources needs to get consolidated so embedded BA isn't an option.
 
 Here are Gartner's 2015 and 2016 magic quadrants for BI tools.
 
@@ -52,13 +55,37 @@ Here are Gartner's 2015 and 2016 magic quadrants for BI tools.
 
 As you can see, there is a big shift away from old school enterprise BI solutions and toward what Gartner terms Self Service BI solutions.
 
-But the users of Tableau, Qlik and Microsoft solutions are not business typically analytics consumers.
+But the primary users of Tableau, Qlik and Microsoft Dynamics are not business analytics consumers. They are intermediaries, often working within user departments, and therefore confused with real business users.
 
-## Not That Intelligent
+So what have we accomplished in recent years for real BA users?
+
+## F#@&^ng Dashboards!
+
+Dashboards are great when employed to make invisible realtime stuff visible. How many users, threads, processes, database operations ... active now, in the past few minutes, today.
+
+Most business dashboards I've seen recently are the equivalent of putting your historical travel expense details and management approvals next to the speedometer in your car.
+
+As far as I can tell, the reason dashboards have propagated so prolifically is because dashboards are what Tableau and it's ilk produce, and these are the tools we make available to those to whom we have delegated business analytics.
+
+**This is a sorry state!**
+
+## What next?
+
+If the solutions were at hand, we would be excited about them.  They are not, at least not yet. Here are some of the qualities that we think characterize the breakthrough:
+
+**1. Autofocus.** BA will lead users to relevant data — that which suggests not only the need for attention, but the possibility of action. All sorts of machine learning and predictive analytics are being used to determine what will grab the attention of consumers. The same technology can and should be used to determine what information is worthy of business decision-makers' attention.
+
+**2. Interactivity.** It's easy to explore just about any subject on the web simply by searching and following links. It should be similarly easy to explore the data that describes business activities and their results. This requires some up-front effort to organize and curate that data, but much can be automated, just as search engines and relevance ranking algorithms automate the organization of the web.
+
+**3. Real Self Service.** Not for intermediaries, but for real decision-making end users. Low cognitive friction. Obvious, intuitive, easy-to-use. If you don't think this is possible, consider how many people interact with stock market data every day without any assistance from the BI team.
+
+### #
+*Thanks for listening. Please *
+* *comment here*
 
 
+* *or email me: markf at numinary dot com.*
 
+* *or tweet @numinary*
 
-
-
-x
+Cheers!
