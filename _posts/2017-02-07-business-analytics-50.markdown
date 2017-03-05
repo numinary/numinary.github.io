@@ -3,7 +3,7 @@ layout: post
 title: "Business Analytics 5.0"
 date: "2017-02-07 18:37:35 -0500"
 ---
-<img src="../img/bluechart.jpg">
+<img src="/img/bluechart.jpg">
 
 
 Like most techies, I am attracted to shiny objects. When coding gets dull, get a new editor makes it fun again. Twitter seemed new and exciting when I got my iPhone 7.
